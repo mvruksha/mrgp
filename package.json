@@ -1,0 +1,41 @@
+{
+  "name": "mrgroup",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@headlessui/react": "^2.2.0",
+    "@heroicons/react": "^2.2.0",
+    "aos": "^2.3.4",
+    "clsx": "^2.1.1",
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^12.6.3",
+    "lucide-react": "^0.488.0",
+    "next": "14.2.6",
+    "next-videos": "^1.4.1",
+    "react": "^18",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18",
+    "react-icons": "^5.5.0",
+    "react-iframe": "^1.8.5",
+    "react-player": "^2.16.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-scroll": "^1.9.3",
+    "react-simple-typewriter": "^5.0.1",
+    "react-toastify": "^11.0.5",
+    "sass": "^1.86.3",
+    "swiper": "^11.2.6"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.6",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}

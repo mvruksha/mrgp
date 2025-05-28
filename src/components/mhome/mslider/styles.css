@@ -1,0 +1,28 @@
+/* Default Styles for Swiper Arrows */
+.swiper-button-next,
+.swiper-button-prev {
+  width: 30px;
+  height: 30px;
+  background: rgb(220, 213, 213);
+  background-size: 20px 20px;
+  transition: background 0.3s ease, color 0.3s ease; /* Smooth transition */
+}
+
+/* Arrow icon styles */
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 20px;
+  font-weight: bold;
+  color: #000; /* Default arrow color */
+}
+
+/* Hover effect for Swiper Arrows */
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  background: greenyellow; /* Change background to white on hover */
+}
+
+.swiper-button-next:hover::after,
+.swiper-button-prev:hover::after {
+  color: white; /* Keep arrow color black */
+}
