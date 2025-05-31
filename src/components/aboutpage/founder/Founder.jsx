@@ -37,7 +37,7 @@ const Founder = () => {
             src="/assets/founder/founder.jpg"
             width={450}
             height={450}
-            alt="Mr. Ragav - Founder of MR Geniune Properties"
+            alt="Mr. Mahesh - Founder of MR Geniune Properties"
             className="rounded-xs shadow-lg object-cover w-full h-auto"
             priority
           />
@@ -50,14 +50,14 @@ const Founder = () => {
           </p>
 
           <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-4">
-            Mr. Ragav
+            Mr. Mahesh
           </h2>
 
           <p className="text-gray-700 leading-relaxed text-base md:text-sm mb-6">
             Mr. Ragav is a seasoned real estate visionary with over 15 years of
             industry experience. He has successfully led diverse residential and
             commercial projects, combining market insight with a strong
-            client-first approach. His leadership is defined by a passion for
+            client-first approach. There leadership is defined by a passion for
             excellence, innovation, and long-term value creation.
           </p>
 
