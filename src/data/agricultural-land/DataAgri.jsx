@@ -3,7 +3,7 @@ const agriproperties = [
   {
     title: "Agriculture Farm Land is for near Mandya",
     sites: null,
-    location: "Honaganahalli, Mandya (4km from Mandya)",
+    location: "Honaganahalli, Mandya",
     region: "Mandya",
     images: [
       "/assets/farmland/mandya1.jpg",
@@ -80,10 +80,10 @@ const agriproperties = [
       "Experience luxury living in this beautifully designed 3BHK apartment located in the vibrant locality of Whitefield, Bangalore...",
   },
   {
-    title: "Spacious 2BHK Villa",
+    title: "Agriculture Farm land with all round compound near Doddaballapura",
     sites: null,
-    location: "HSR Layout, Bangalore",
-    region: "Chikkaballapur",
+    location: "Tubagere, Doddaballlapura",
+    region: "Doddaballapura",
     images: [
       "/assets/home/properties/villa1.jpg",
       "/assets/home/properties/villa2.jpg",
