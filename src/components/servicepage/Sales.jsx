@@ -41,7 +41,7 @@ const Sales = () => {
               Your Trusted Partner in Real Estate Across Doddaballapura
             </h2>
             <p className="text-gray-600 text-sm md:text-sm lg:text-sm xl:text-lg">
-              At MR Geniune Properties, we help you buy and sell residential and
+              At Surya Vruksha Property Junction, we help you buy and sell residential and
               commercial properties with ease. Our team works closely with you
               to understand your goals, match your preferences, and ensure a
               seamless, transparent experience.

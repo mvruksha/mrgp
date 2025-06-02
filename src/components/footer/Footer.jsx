@@ -12,9 +12,9 @@ import {
 } from "react-icons/fa";
 
 const Footer = () => {
-  const company = "MR Geniune Properties";
+  const company = "Surya Vruksha Property Junction";
   const phone = "9986677996";
-  const email = "info@mrgroup.com";
+  const email = "info@SuryaVruksha.com";
   const address =
     "#0669, RMS Complex, TB Circle, Doddaballapura, Bengaluru Rural District. Landmark: Before Nandi Mori.";
 
@@ -35,7 +35,7 @@ const Footer = () => {
           </div>
           <p className="text-sm leading-relaxed">
             Your trusted partner for buying, selling, and investing in prime
-            properties around Doddaballapura and Devanahalli.
+            properties around Doddaballapura, Chikkaballapura, Nandi Hills, and Devanahalli.
           </p>
           <p className="text-sm mt-2 leading-relaxed">
             Expert advice. Seamless deals. Maximum returns.

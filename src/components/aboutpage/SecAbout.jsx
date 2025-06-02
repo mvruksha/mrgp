@@ -67,7 +67,7 @@ const SecAbout = () => {
               around
               <strong className="text-gray-800">
                 {" "}
-                Doddaballapura, Rajanukunte, and Devanahalli
+                Doddaballapura, Rajanukunte, Chikkaballapura, Nandi Hills, and Devanahalli
               </strong>
               . Whether you&apos;re investing in your dream home or letting go
               of a property, we&apos;re here to guide every step.

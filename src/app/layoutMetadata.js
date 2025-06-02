@@ -1,13 +1,13 @@
 export const metadata = {
-  title: "MR Geniune | Properties in Doddaballapura, Rajanukunte & Devanahalli",
+  title: "MR Geniune | Properties in Doddaballapura, Rajanukunte, Nandi Hills & Devanahalli",
   description:
-    "Buy, sell, or rent residential, commercial, and agricultural properties in and around Doddaballapura, Rajanukunte, and Devanahalli with MR Geniune Properties. We offer expert property consulting and advisory services.",
+    "Buy, sell, or rent residential, commercial, and agricultural properties in and around Doddaballapura, Rajanukunte, Nandi Hills, and Devanahalli with Surya Vruksha Property Junction. We offer expert property consulting and advisory services.",
   icons: {
     icon: ["/mrglogo.png"],
     apple: ["/mrglogo.png?v=4"],
     shortcut: ["/mrglogo.png"],
   },
-  metadataBase: new URL("https://www.mrgroup.com"),
+  metadataBase: new URL("https://www.SuryaVruksha.com"),
   category: "Real Estate",
   keywords: [
     "Sites in Doddaballapura",
@@ -17,13 +17,13 @@ export const metadata = {
     "Commercial Sites in Doddaballapura",
     "Commercial Plots in Doddaballapura",
     "Agricultural Land near Doddaballapura",
-    "Sites in Rajanukunte",
-    "Plots in Rajanukunte",
-    "Residential Sites in Rajanukunte",
-    "Residential Plots in Rajanukunte",
-    "Commercial Sites in Rajanukunte",
-    "Commercial Plots in Rajanukunte",
-    "Agricultural Land near Rajanukunte",
+    "Sites in Rajanukunte, Nandi Hills",
+    "Plots in Rajanukunte, Nandi Hills",
+    "Residential Sites in Rajanukunte, Nandi Hills",
+    "Residential Plots in Rajanukunte, Nandi Hills",
+    "Commercial Sites in Rajanukunte, Nandi Hills",
+    "Commercial Plots in Rajanukunte, Nandi Hills",
+    "Agricultural Land near Rajanukunte, Nandi Hills",
     "Sites in Devanahalli",
     "Plots in Devanahalli",
     "Residential Sites in Devanahalli",
@@ -36,48 +36,48 @@ export const metadata = {
     "Property consulting services",
     "Buy land near Bangalore",
     "Real estate in Bangalore North",
-    "MR Geniune properties",
+    "Surya Vruksha Property Junction",
   ],
   authors: [
     {
-      name: "Chandan HM",
-      url: "https://chandan21.vercel.app",
+      name: "Chandan, for mVruksha",
+      url: "https://mvruksha.com",
     },
   ],
   creator: [
     {
-      name: "CDevXGen Team",
-      url: "https://www.cdevxgen.com",
+      name: "mVruksha Softwares",
+      url: "https://www.mvruksha.com",
     },
   ],
   openGraph: {
     title:
-      "MR Geniune Properties | Real Estate Services in Doddaballapura, Rajanukunte & Devanahalli",
+      "Surya Vruksha Property Junction | Real Estate Services in Doddaballapura, Rajanukunte, Nandi Hills & Devanahalli",
     description:
-      "Explore residential, commercial, and agricultural properties near Bangalore. MR Geniune Properties offers reliable property sales, consultation, and advisory services.",
+      "Explore residential, commercial, and agricultural properties near Bangalore. Surya Vruksha Property Junction offers reliable property sales, consultation, and advisory services.",
     images: [
       {
         url: "/mrglogo.jpg",
-        alt: "MR Geniune Properties Logo",
+        alt: "Surya Vruksha Property Junction Logo",
       },
     ],
-    site_name: "mrgroup.com",
-    url: "https://www.mrgroup.com",
+    site_name: "SuryaVruksha.com",
+    url: "https://www.SuryaVruksha.com",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "MR Geniune Properties | Property Experts in Bangalore North",
+    title: "Surya Vruksha Property Junction | Property Experts in Bangalore North",
     description:
-      "Discover plots and properties in Doddaballapura, Rajanukunte & Devanahalli. Trusted advisory and real estate consultation by MR Geniune Properties.",
+      "Discover plots and properties in Doddaballapura, Rajanukunte, Nandi Hills & Devanahalli. Trusted advisory and real estate consultation by Surya Vruksha Property Junction.",
     images: [
       {
         url: "/mrglogo.jpg",
-        alt: "MR Geniune Properties Logo",
+        alt: "Surya Vruksha Property Junction Logo",
       },
     ],
   },
-  canonical: "https://www.mrgroup.com",
+  canonical: "https://www.SuryaVruksha.com",
   robots: "index, follow",
   xRobotsTag: "index, follow",
   language: "en",

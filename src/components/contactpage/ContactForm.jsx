@@ -83,10 +83,10 @@ const ContactForm = () => {
                   Email
                 </h4>
                 <Link
-                  href="mailto:info@mrgroup.com"
+                  href="mailto:info@SuryaVruksha.com"
                   className="text-gray-600 hover:underline dark:text-gray-400"
                 >
-                  info@mrgroup.com
+                  info@SuryaVruksha.com
                 </Link>
               </div>
             </div>

@@ -2,13 +2,13 @@ export const metadata = {
   title:
     "Properties for Sale | Residential, Commercial & Agricultural Land Near Bangalore",
   description:
-    "Discover a wide range of properties including residential plots, commercial land, and agricultural farmland in Doddaballapura, Rajanukunte, and Devanahalli. Explore trusted listings with MR Geniune Properties.",
+    "Discover a wide range of properties including residential plots, commercial land, and agricultural farmland in Doddaballapura, Rajanukunte, and Devanahalli. Explore trusted listings with Surya Vruksha Property Junction.",
   icons: {
     icon: ["/mrglogo.png"],
     apple: ["/mrglogo.png?v=4"],
     shortcut: ["/mrglogo.png"],
   },
-  metadataBase: new URL("https://www.mrgroup.com"),
+  metadataBase: new URL("https://www.SuryaVruksha.com"),
   category: "Real Estate",
   keywords: [
     "Properties for sale Bangalore North",
@@ -25,33 +25,33 @@ export const metadata = {
     "Real estate agents Bangalore North",
     "BDA and DC converted plots",
     "Gated community plots Bangalore",
-    "MR Geniune Properties listings",
+    "Surya Vruksha Property Junction listings",
   ],
   authors: [
     {
-      name: "Chandan HM",
-      url: "https://chandan21.vercel.app",
+      name: "Chandan, for mVruksha",
+      url: "https://mvruksha.com",
     },
   ],
   creator: [
     {
-      name: "CDevXGen Team",
-      url: "https://www.cdevxgen.com",
+      name: "mVruksha Softwares",
+      url: "https://www.mvruksha.com",
     },
   ],
   openGraph: {
     title:
-      "Explore Properties in Doddaballapura, Rajanukunte & Devanahalli | MR Geniune Properties",
+      "Explore Properties in Doddaballapura, Rajanukunte, Nandi Hills & Devanahalli | Surya Vruksha Property Junction",
     description:
-      "View all property listings including residential, commercial, and agricultural land near Bangalore. Trusted guidance and verified listings from MR Geniune Properties.",
+      "View all property listings including residential, commercial, and agricultural land near Bangalore. Trusted guidance and verified listings from Surya Vruksha Property Junction.",
     images: [
       {
         url: "/mrglogo.jpg",
-        alt: "MR Geniune Properties Logo",
+        alt: "Surya Vruksha Property Junction Logo",
       },
     ],
-    site_name: "mrgroup.com",
-    url: "https://www.mrgroup.com/properties",
+    site_name: "SuryaVruksha.com",
+    url: "https://www.SuryaVruksha.com/properties",
     type: "website",
   },
   twitter: {
@@ -59,15 +59,15 @@ export const metadata = {
     title:
       "Properties for Sale | Verified Plots & Land Listings Near Bangalore",
     description:
-      "Browse residential, commercial, and agricultural properties in Bangalore North with MR Geniune Properties. Expert assistance & genuine listings.",
+      "Browse residential, commercial, and agricultural properties in Bangalore North with Surya Vruksha Property Junction. Expert assistance & genuine listings.",
     images: [
       {
         url: "/mrglogo.jpg",
-        alt: "MR Geniune Properties Logo",
+        alt: "Surya Vruksha Property Junction Logo",
       },
     ],
   },
-  canonical: "https://www.mrgroup.com/properties",
+  canonical: "https://www.SuryaVruksha.com/properties",
   robots: "index, follow",
   xRobotsTag: "index, follow",
   language: "en",

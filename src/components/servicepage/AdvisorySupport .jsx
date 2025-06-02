@@ -11,7 +11,7 @@ const AdvisorySupport = () => {
             Advisory Support
           </h4>
           <h2 className="text-xl md:text-xl lg:text-3xl xl:text-3xl font-extrabold text-gray-800 leading-tight">
-            Strategic Real Estate Guidance with MR Geniune Properties
+            Strategic Real Estate Guidance with Surya Vruksha Property Junction
           </h2>
           <p className="text-gray-600 text-sm md:text-sm lg:text-sm xl:text-lg">
             Our advisory team is committed to helping you make informed

@@ -20,8 +20,8 @@ const Aboutus = () => {
           </h2>
 
           <p className="text-gray-600 text-lg leading-relaxed">
-            At MR Geniune Properties, we specialize in buying and selling
-            properties across Doddaballapura, Rajanukunte, and Devanahalli. We
+            At Surya Vruksha Property Junction, we specialize in buying and selling
+            properties across Doddaballapura, Rajanukunte, Chikkaballapura, Nandi Hills, and Devanahalli. We
             align your needs, budget, and aspirations to find the perfect match.
             Our advisory and consulting services ensure that every property
             decision you make is informed, confident, and rewarding.
@@ -41,7 +41,7 @@ const Aboutus = () => {
         <div className="w-full h-full">
           <Image
             src="/assets/home/about/aboutus.jpg"
-            alt="MR Geniune Properties - Property Experts"
+            alt="Surya Vruksha Property Junction - Property Experts"
             className=""
             width={700}
             height={500}

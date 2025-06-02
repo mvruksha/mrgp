@@ -37,7 +37,7 @@ const Founder = () => {
             src="/assets/founder/founder.jpg"
             width={450}
             height={450}
-            alt="Mr. Mahesh - Founder of MR Geniune Properties"
+            alt="Mr. Mahesh - Founder of Surya Vruksha Property Junction"
             className="rounded-xs shadow-lg object-cover w-full h-auto"
             priority
           />
@@ -54,7 +54,7 @@ const Founder = () => {
           </h2>
 
           <p className="text-gray-700 leading-relaxed text-base md:text-sm mb-6">
-            Mr. Ragav is a seasoned real estate visionary with over 15 years of
+            Mr. Raghav is a seasoned real estate visionary with over 15 years of
             industry experience. He has successfully led diverse residential and
             commercial projects, combining market insight with a strong
             client-first approach. There leadership is defined by a passion for
@@ -64,7 +64,7 @@ const Founder = () => {
           <p className="text-gray-900 font-medium text-base md:text-lg mb-6">
             At{" "}
             <span className="text-yellow-600 font-bold">
-              MR Geniune Properties
+              Surya Vruksha Property Junction
             </span>
             , we believe every property holds untapped potential. Our mission is
             to transform that potential into enduring value through expert

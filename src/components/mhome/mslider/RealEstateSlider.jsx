@@ -162,7 +162,7 @@ const RealEstateSlider = ({
                     </button>
 
                     <Link
-                      href={`https://wa.me/918105114625?text=Hi, I'm interested in the ${property.title} located at ${property.location}. Could you provide more details?`}
+                      href={`https://wa.me/919986677996?text=Hi, I'm interested in the ${property.title} located at ${property.location}. Could you provide more details?`}
                       target="_blank"
                       rel="noopener noreferrer"
                       onClick={(e) => e.stopPropagation()}

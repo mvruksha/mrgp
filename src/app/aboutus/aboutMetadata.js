@@ -57,14 +57,14 @@ export const metadata = {
   ],
   authors: [
     {
-      name: "Chandan HM",
-      url: "https://chandan21.vercel.app",
+      name: "Chandan for mVruksha",
+      url: "https://mvruksha.com",
     },
   ],
   creator: [
     {
-      name: "CDevXGen Team",
-      url: "https://www.cdevxgen.com",
+      name: "mVruksha Softwares",
+      url: "https://www.mvruksha.com",
     },
   ],
   openGraph: {
@@ -78,8 +78,8 @@ export const metadata = {
         alt: "Surya Vruksha Property Junction Logo",
       },
     ],
-    site_name: "mrgroup.com",
-    url: "https://www.mrgroup.com/about",
+    site_name: "SuryaVruksha.com",
+    url: "https://www.SuryaVruksha.com/aboutus",
     type: "website",
   },
   twitter: {
@@ -95,7 +95,7 @@ export const metadata = {
       },
     ],
   },
-  canonical: "https://www.mrgroup.com/about",
+  canonical: "https://www.SuryaVruksha.com/aboutus",
   robots: "index, follow",
   xRobotsTag: "index, follow",
   language: "en",

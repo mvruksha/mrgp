@@ -21,8 +21,8 @@ const slides = [
 
 const titles = [
   "BUY | SELL PROPERTIES",
-  "LAND | COMMERCIAL | RESIDENTIAL",
-  "DODDABALLAPURA | DEVANAHALLI",
+  "Land | Commercial | Residential",
+  "Ddoddaballapura | Nandi Hills | Devenahalli",
 ];
 
 const Banner = () => {

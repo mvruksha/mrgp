@@ -23,7 +23,7 @@ const Consultations = () => {
             Consultations
           </h4>
           <h2 className="text-xl md:text-xl lg:text-3xl xl:text-3xl font-extrabold text-gray-800 leading-tight">
-            One-on-One Real Estate Consultations with MR Geniune Properties
+            One-on-One Real Estate Consultations with Surya Vruksha Property Junction
           </h2>
           <p className="text-gray-600 text-sm md:text-sm lg:text-sm xl:text-lg">
             We offer personalized consultation services that go beyond listings.

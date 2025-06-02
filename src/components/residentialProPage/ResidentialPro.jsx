@@ -18,7 +18,7 @@ const features = [
       "Explore high-value properties in Chikkaballapur with peace, nature, and connectivity.",
   },
   {
-    title: "Residential Properties in Bangalore",
+    title: "Residential Properties in Nandi Hills",
     icon: <FaEye className="text-yellow-500 text-3xl" />,
     description:
       "Premium housing options in Bangalore’s top neighborhoods — modern, accessible, and secure.",
