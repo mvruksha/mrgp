@@ -1,7 +1,7 @@
 // Real Estate Listings Data
 const agriproperties = [
   {
-    title: "Farm Land Mandya",
+    title: "Agriculture Farm Land is for near Mandya",
     sites: null,
     location: "Honaganahalli, Mandya (4km from Mandya)",
     region: "Mandya",
