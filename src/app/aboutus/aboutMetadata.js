@@ -1,31 +1,59 @@
 export const metadata = {
   title:
-    "About MR Geniune Properties | Trusted Real Estate Experts in Doddaballapura, Rajanukunte & Devanahalli",
+    "About Surya Vruksha Property Junction | Trusted Real Estate Experts in Doddaballapura, Rajanukunte & Devanahalli",
   description:
-    "Learn about MR Geniune Properties – your trusted partner in buying, selling, and renting residential, commercial, and agricultural properties in Doddaballapura, Rajanukunte, and Devanahalli. With years of experience, we offer professional real estate consulting and advisory services.",
+    "Learn about Surya Vruksha Property Junction – your trusted partner in buying, selling, and renting residential, commercial, and agricultural properties in Doddaballapura, Rajanukunte, and Devanahalli. With years of experience, we offer professional real estate consulting and advisory services.",
   icons: {
     icon: ["/mrglogo.png"],
     apple: ["/mrglogo.png?v=4"],
     shortcut: ["/mrglogo.png"],
   },
-  metadataBase: new URL("https://www.mrgroup.com"),
+  metadataBase: new URL("https://www.suryavruksha.com"),
   category: "Real Estate",
   keywords: [
-    "About MR Geniune Properties",
-    "Real estate company Doddaballapura",
-    "Real estate consultants Rajanukunte",
-    "Real estate agents Devanahalli",
+    "About Surya Vruksha Property Junction",
+    "Real estate company in Doddaballapura",
+    "Real estate consultants in Rajanukunte",
+    "Real estate agents in Devanahalli",
     "Property dealers in Doddaballapura",
     "Property experts near Bangalore",
     "Real estate company Bangalore North",
-    "MR Geniune Properties team",
+    "Surya Vruksha Property Junction team",
     "Property advisors in Doddaballapura",
     "Real estate services in Rajanukunte",
     "Agricultural land consultants Devanahalli",
     "Top real estate company Bangalore North",
     "Real estate about page SEO",
     "Trusted property consultants Bangalore",
-    "MR Geniune Properties About Us",
+    "Surya Vruksha Property Junction About Us",
+    "Sites in/near Doddaballapura",
+    "Plots in/near Doddaballapura",
+    "Residential Sites in/near Doddaballapura",
+    "Resident Plots in/near Doddaballapura",
+    "Commercial Sites in/near Doddaballapura",
+    "Commercial Plots in/near Doddaballapura",
+    "Agricultural land near Doddaballapura",
+    "Sites in/near Rajanukunte",
+    "Plots in/near Rajanukunte",
+    "Residential Sites in/near Rajanukunte",
+    "Resident Plots in/near Rajanukunte",
+    "Commercial Sites in/near Rajanukunte",
+    "Commercial Plots in/near Rajanukunte",
+    "Agricultural land near Rajanukunte",
+    "Sites in/near Devanahalli",
+    "Plots in/near Devanahalli",
+    "Residential Sites in/near Devanahalli",
+    "Resident Plots in/near Devanahalli",
+    "Commercial Sites in/near Devanahalli",
+    "Commercial Plots in/near Devanahalli",
+    "Agricultural land near Devanahalli",
+    "Sites in/near Nandi Hills",
+    "Plots in/near Nandi Hills",
+    "Residential Sites in/near Nandi Hills",
+    "Resident Plots in/near Nandi Hills",
+    "Commercial Sites in/near Nandi Hills",
+    "Commercial Plots in/near Nandi Hills",
+    "Agricultural land near Nandi Hills",    
   ],
   authors: [
     {
@@ -41,13 +69,13 @@ export const metadata = {
   ],
   openGraph: {
     title:
-      "About MR Geniune Properties | Real Estate Experts in Doddaballapura, Rajanukunte & Devanahalli",
+      "About Surya Vruksha Property Junction | Real Estate Experts in Doddaballapura, Rajanukunte & Devanahalli",
     description:
-      "MR Geniune Properties is a trusted name in real estate, offering expert consulting and advisory services for residential, commercial, and agricultural properties around North Bangalore.",
+      "Surya Vruksha Property Junction is a trusted name in real estate, offering expert consulting and advisory services for residential, commercial, and agricultural properties around North Bangalore.",
     images: [
       {
         url: "/mrglogo.jpg",
-        alt: "MR Geniune Properties Logo",
+        alt: "Surya Vruksha Property Junction Logo",
       },
     ],
     site_name: "mrgroup.com",
@@ -57,13 +85,13 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Meet the Team Behind MR Geniune Properties | Bangalore North Real Estate",
+      "Meet the Team Behind Surya Vruksha Property Junction | Bangalore North Real Estate",
     description:
-      "Get to know MR Geniune Properties – a reliable team of real estate consultants serving Doddaballapura, Rajanukunte, and Devanahalli with top-notch advisory services.",
+      "Get to know Surya Vruksha Property Junction – a reliable team of real estate consultants serving Doddaballapura, Rajanukunte, and Devanahalli with top-notch advisory services.",
     images: [
       {
         url: "/mrglogo.jpg",
-        alt: "MR Geniune Properties Logo",
+        alt: "Surya Vruksha Property Junction Logo",
       },
     ],
   },
