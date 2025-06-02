@@ -57,7 +57,7 @@ const RealEstateSlider = ({
           navigation={true}
           modules={[Navigation]}
           breakpoints={{
-            0: { slidesPerView: 1 },       // Mobile
+            0: { slidesPerView: 2 },       // Mobile
             640: { slidesPerView: 2 },     // Small tablets
             768: { slidesPerView: 3 },     // Tablets
             1024: { slidesPerView: 4 },    // Desktops and up
