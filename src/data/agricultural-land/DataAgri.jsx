@@ -80,7 +80,7 @@ const agriproperties = [
       "Experience luxury living in this beautifully designed 3BHK apartment located in the vibrant locality of Whitefield, Bangalore...",
   },
   {
-    title: "Agriculture Farm land with all round compound near Doddaballapura",
+    title: "Agriculture Farm land with all round compound",
     sites: null,
     location: "Tubagere, Doddaballlapura",
     region: "Doddaballapura",
