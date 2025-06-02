@@ -33,7 +33,7 @@ const features = [
 
 const AgriculturalLandPro = () => {
   return (
-    <section className="py-12 px-6 md:px-12 lg:px-20">
+    <section className="py-12 px-6 md:px-12 lg:px-20 max-w-screen-xl mx-auto">
       <div className="text-center mb-16">
         <motion.h2
           initial={{ opacity: 0, y: -20 }}
