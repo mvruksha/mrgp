@@ -51,19 +51,20 @@ const RealEstateSlider = ({
             {viewAllLabel} <IoArrowRedoSharp className="text-xl" />
           </Link>
         </div>
-
+        
         <Swiper
           spaceBetween={30}
-          slidesPerView={3}
           navigation={true}
           modules={[Navigation]}
           breakpoints={{
-            0: { slidesPerView: 1 },
-            768: { slidesPerView: 3 },
-            1024: { slidesPerView: 3 },
+            0: { slidesPerView: 1 },       // Mobile
+            640: { slidesPerView: 2 },     // Small tablets
+            768: { slidesPerView: 3 },     // Tablets
+            1024: { slidesPerView: 4 },    // Desktops and up
           }}
           className="mySwiper"
-        >
+        >  
+
           {properties.map((property, index) => (
             <SwiperSlide key={index} onClick={() => router.push(property.link)}>
               <div className="cursor-pointer bg-white rounded-xs overflow-hidden shadow-md hover:shadow-xl hover:scale-[1.02] transition-transform duration-300 flex flex-col">
