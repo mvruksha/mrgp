@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "MR Geniune | Properties in Doddaballapura, Rajanukunte, Nandi Hills & Devanahalli",
+  title: "Surya Vruksha Property Junction | Properties in Doddaballapura, Rajanukunte, Nandi Hills & Devanahalli",
   description:
     "Buy, sell, or rent residential, commercial, and agricultural properties in and around Doddaballapura, Rajanukunte, Nandi Hills, and Devanahalli with Surya Vruksha Property Junction. We offer expert property consulting and advisory services.",
   icons: {
