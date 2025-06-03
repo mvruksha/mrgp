@@ -21,8 +21,7 @@ const AdvisorySupport = () => {
             advice.
           </p>
           <p className="text-gray-600 text-base md:text-lg">
-            From site visits to paperwork and post-sale support, MR Geniune
-            Properties stands by you at every step, making your real estate
+            From site visits to paperwork and post-sale support, Surya Vruksha Property Junction stands by you at every step, making your real estate
             journey worry-free and successful.
           </p>
 

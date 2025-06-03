@@ -43,7 +43,7 @@ const Mblog = () => {
         </h2>
         <p className="text-sm text-[#4B5563] max-w-4xl mx-auto">
           Whether you are looking to invest, buy your dream home, or find a
-          place to lease, MR Geniune Properties Solutions offers a curated
+          place to lease, Surya Vruksha Property Junction offers a curated
           selection of real estate options to match every need. Begin your
           property journey with confidence.
         </p>

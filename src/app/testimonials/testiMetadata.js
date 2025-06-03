@@ -13,7 +13,7 @@ export const metadata = {
   keywords: [
     "Surya Vruksha Property Junction reviews",
     "Client testimonials real estate",
-    "Customer feedback MR Geniune",
+    "Customer feedback Surya Vruksha Property Junction",
     "Trusted property consultants Bangalore",
     "Best property agents Doddaballapura",
     "Real estate reviews Rajanukunte, Nandi Hills",

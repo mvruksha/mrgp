@@ -60,8 +60,7 @@ const EnquiryModal = ({ isOpen, onClose, property }) => {
 
             <label className="inline-flex items-center mt-2">
               <input type="checkbox" className="mr-2" required />
-              Yes, I would like to receive updates & promotions from MR Geniune
-              Properties.
+              Yes, I would like to receive updates & promotions from Surya Vruksha Property Junction.
             </label>
 
             <button
