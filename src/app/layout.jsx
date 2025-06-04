@@ -27,7 +27,21 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* ✅ Google AdSense Script */}
+        {/* ✅ Google Analytics */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-F3GXS22XZ7"
+          strategy="afterInteractive"
+        />
+        <Script id="gtag-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-F3GXS22XZ7');
+          `}
+        </Script>
+
+        {/* ✅ Google AdSense */}
         <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6743441506724698"
