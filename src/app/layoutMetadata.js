@@ -1,5 +1,6 @@
 export const metadata = {
-  title: "Surya Vruksha Property Junction | Properties in Doddaballapura, Rajanukunte, Nandi Hills & Devanahalli",
+  title:
+    "Surya Vruksha Property Junction | Properties in Doddaballapura, Rajanukunte, Nandi Hills & Devanahalli",
   description:
     "Buy, sell, or rent residential, commercial, and agricultural properties in and around Doddaballapura, Rajanukunte, Nandi Hills, and Devanahalli with Surya Vruksha Property Junction. We offer expert property consulting and advisory services.",
   icons: {
@@ -67,7 +68,8 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Surya Vruksha Property Junction | Property Experts in Bangalore North",
+    title:
+      "Surya Vruksha Property Junction | Property Experts in Bangalore North",
     description:
       "Discover plots and properties in Doddaballapura, Rajanukunte, Nandi Hills & Devanahalli. Trusted advisory and real estate consultation by Surya Vruksha Property Junction.",
     images: [
