@@ -21,7 +21,7 @@ const properties = [
     dcConversion: "Yes",
     revenueSite: "No",
     googleMapLink: "https://maps.app.goo.gl/7tmNVEQPQ5FMf1QGA",
-    link: "/property/luxury-3bhk-apartment",
+    link: "/property/Residential-site-for-sale",
     description:
       "Redidential plot for sale in Doddaballapur with clear titles and direct contact with the owner.",
   },
