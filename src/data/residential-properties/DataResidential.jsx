@@ -35,7 +35,7 @@ const properties = [
       "/assets/home/properties/8.jpeg",
       "/assets/home/properties/9.jpeg",
     ],
-    price: null,
+    price: 100000,
     bedrooms: null,
     bathrooms: null,
     dimensions: "2200 sqft",
