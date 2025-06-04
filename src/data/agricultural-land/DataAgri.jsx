@@ -52,7 +52,7 @@ const agriproperties = [
     googleMapLink: "https://maps.app.goo.gl/hCDsMxwBVE4qxwsL9",
     link: "/property/Agriculture-Farm-Land-Chikkaballapura",
     description:
-      "Isha foundation opposite land very nice form house land 9 acre 11  guntas one ackar kharab land 5 bore well coconut mango support take silver full compound 2 house  Water tank and generator 24 hours electrical, one house three bedroom second house 2 bedroom cow shede excetra.",
+      "Isha foundation opposite land very nice farm house land 9 acre 11  guntas one ackar kharab land 5 bore well coconut mango support take silver full compound 2 house  Water tank and generator 24 hours electrical, one house three bedroom second house 2 bedroom cow shede excetra.",
   },
 ];
 
