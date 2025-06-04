@@ -6,9 +6,9 @@ const properties = [
     location: "Info City",
     region: "Doddaballapura",
     images: [
-      "/assets/home/properties/1.jpg",
-      "/assets/home/properties/2.jpg",
-      "/assets/home/properties/3.jpg",
+      "/assets/home/properties/1.jpeg",
+      "/assets/home/properties/2.jpeg",
+      "/assets/home/properties/3.jpeg",
     ],
     price: 7500000,
     bedrooms: 3,
