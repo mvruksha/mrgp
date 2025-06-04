@@ -29,7 +29,7 @@ const properties = [
     title: "Plot in Doddaballapura",
     sites: null,
     location: "Near Railway Stn, Dodddaballapura",
-    region: "Bangalore",
+    region: "Doddaballapura",
     images: [
       "/assets/home/properties/7.jpeg",
       "/assets/home/properties/8.jpeg",
@@ -54,7 +54,7 @@ const properties = [
     title: "Plot near TB Circle DBP",
     sites: null,
     location: "Near Railway Stn, Dodddaballapura",
-    region: "Bangalore",
+    region: "Doddaballapura",
     images: [
       "/assets/home/properties/10.jpeg",
       "/assets/home/properties/11.jpeg",
