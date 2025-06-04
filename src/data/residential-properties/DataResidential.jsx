@@ -83,7 +83,7 @@ const properties = [
     images: [
       "/assets/home/properties/5.jpeg",
       "/assets/home/properties/6.jpeg",
-      "/assets/home/properties/12.mp4",
+      "/assets/home/properties/5.jpeg",
     ],
     price: 0000,
     bedrooms: 0,
