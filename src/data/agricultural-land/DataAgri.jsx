@@ -33,9 +33,9 @@ const agriproperties = [
     location: "Neralaghatta, Doddaballapura",
     region: "Doddaballapura",
     images: [
-      "/assets/farmland/dbp-farmland-1.jpeg",
-      "/assets/farmland/dbp-farmland-2.jpeg",
-      "/assets/farmland/dbp-farmland-3.jpeg",
+      "/assets/farmland/dbp-farmland1.jpeg",
+      "/assets/farmland/dbp-farmland2.jpeg",
+      "/assets/farmland/dbp-farmland3.jpeg",
     ],
     price: 0, // ₹1.4 Cr in numeric
     bedrooms: null,
