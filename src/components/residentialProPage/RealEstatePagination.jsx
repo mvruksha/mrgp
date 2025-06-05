@@ -113,7 +113,7 @@ const RealEstatePagination = ({ properties }) => {
 
               <div className="p-5 flex flex-col flex-grow">
                 <Link href={property.link} className="block">
-                  <h3 className="text-xl font-semibold text-gray-800 mb-2 hover:text-yellow-500">
+                  <h3 className="text-base font-semibold text-gray-800 mb-2 hover:text-orange-500">
                     {property.title}
                   </h3>
                 </Link>
