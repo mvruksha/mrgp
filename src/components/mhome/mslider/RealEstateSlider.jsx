@@ -80,11 +80,13 @@ const RealEstateSlider = ({
                   >
                     {property.images.map((mediaSrc, mediaIndex) => (
                       <SwiperSlide key={mediaIndex}>
-                        {typeof mediaSrc === "string" &&
-                        mediaSrc.toLowerCase().endsWith(".mp4") ? (
+                        {mediaSrc.endsWith(".mp4") ? (
                           <video
                             src={mediaSrc}
-                            controls
+                            autoPlay
+                            muted
+                            loop
+                            playsInline
                             preload="metadata"
                             className="w-full h-60 object-cover"
                           />
