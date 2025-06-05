@@ -146,7 +146,7 @@ const RealEstateSlider = ({
                     </p>
                   </div>
 
-                  <p className="text-lg font-bold text-gray-900 mb-5 flex items-center">
+                  <p className="text-base text-gray-900 mb-5 flex items-center">
                     <FaRupeeSign className="mr-1" />
                     {property.price.toLocaleString("en-IN")}
                   </p>
