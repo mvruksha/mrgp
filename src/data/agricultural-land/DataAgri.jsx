@@ -40,8 +40,8 @@ const agriproperties = [
     price: 0, // ₹1.4 Cr in numeric
     bedrooms: null,
     bathrooms: null,
-    acre: 1.5,
-    guntas: 55,
+    acre: 0.5,
+    guntas: 20,
     dimensions: null,
     availability: "Available",
     ownerName: "Contact Survya Vruksha",
@@ -49,7 +49,7 @@ const agriproperties = [
     phoneNumber: "+91 9986677996",
     dcConversion: null,
     revenueSite: null,
-    googleMapLink: "https://maps.google.com/?q=Honaganahalli,Mandya",
+    googleMapLink: "https://maps.app.goo.gl/yN5QYHkYx4TQuTkw7",
     link: "/property/Ag02-farmland-doddaballapura",
     description:
       "Farmland available for sale near Doddaballapura, which is about 8km from the town. The land is completely fenced and has a borewell with a guest house.",
