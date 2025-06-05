@@ -81,14 +81,23 @@ const RealEstateSlider = ({
                     className="propertyImageSlider"
                   >
                     {property.images.map((imgSrc, imgIndex) => (
-                      <SwiperSlide key={imgIndex}>
-                        <Image
-                          src={imgSrc}
-                          alt={property.title}
-                          width={500}
-                          height={300}
-                          className="object-cover w-full h-60"
-                        />
+                      {property.images.map((mediaSrc, mediaIndex) => (
+                      <SwiperSlide key={mediaIndex}>
+                        {mediaSrc.endsWith(".mp4") ? (
+                          <video
+                            src={mediaSrc}
+                            controls
+                            className="w-full h-60 object-cover"
+                          />
+                        ) : (
+                          <Image
+                            src={mediaSrc}
+                            alt={property.title}
+                            width={500}
+                            height={300}
+                            className="object-cover w-full h-60"
+                          />
+                        )}
                       </SwiperSlide>
                     ))}
                   </Swiper>
