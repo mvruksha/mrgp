@@ -41,7 +41,7 @@ const RealEstateSlider = ({
     <div className="py-8 bg-gray-100">
       <div className="px-4">
         <div className="group flex justify-between items-center mb-10">
-          <h2 className="text-xl md:text-4xl font-bold text-gray-800">
+          <h2 className="text-xl md:text-2xl font-bold text-gray-800">
             {heading}
           </h2>
           <Link
