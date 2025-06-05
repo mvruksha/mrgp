@@ -1,7 +1,7 @@
 // Real Estate Listings Data
 const agriproperties = [
   {
-    title: "Ag01 - Agri Farmland Mandya",
+    title: "Agri Farmland Mandya",
     sites: null,
     location: "Honaganahalli, Mandya",
     region: "Mandya",
@@ -28,7 +28,7 @@ const agriproperties = [
       "Our farm land is located just 4km from Mandya at Honaganahalli. The property offers a reliable borewell water supply, a secure all-round safety compound, and a dedicated security house for 24/7 protection.",
   },
     {
-    title: "Ag02 - Agri farmland Doddaballapura",
+    title: "Agri farmland Doddaballapura",
     sites: null,
     location: "Neralaghatta, Doddaballapura",
     region: "Doddaballapura",
@@ -55,7 +55,7 @@ const agriproperties = [
       "Farmland available for sale near Doddaballapura, which is about 8km from the town. The land is completely fenced and has a borewell with a guest house.",
   },
   {
-    title: "Ag03 - Agri farmland Chikkaballapura",
+    title: "Agri farmland Chikkaballapura",
     sites: null,
     location: "Chikkaballapura",
     region: "Chikkaballapura",
