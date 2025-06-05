@@ -1,7 +1,7 @@
 // Real Estate Listings Data
 const agriproperties = [
   {
-    title: "Agriculture Farm Land Mandya",
+    title: "Ag01 - Agri Farmland Mandya",
     sites: null,
     location: "Honaganahalli, Mandya",
     region: "Mandya",
@@ -23,12 +23,12 @@ const agriproperties = [
     dcConversion: null,
     revenueSite: null,
     googleMapLink: "https://maps.google.com/?q=Honaganahalli,Mandya",
-    link: "/property/Agriculture-Farm-Land-Mandya",
+    link: "/property/Ag01-farmland-mandya",
     description:
       "Our farm land is located just 4km from Mandya at Honaganahalli. The property offers a reliable borewell water supply, a secure all-round safety compound, and a dedicated security house for 24/7 protection.",
   },
     {
-    title: "Agri farmland - Doddaballapura",
+    title: "Ag02 - Agri farmland Doddaballapura",
     sites: null,
     location: "Neralaghatta, Doddaballapura",
     region: "Doddaballapura",
@@ -50,12 +50,12 @@ const agriproperties = [
     dcConversion: null,
     revenueSite: null,
     googleMapLink: "https://maps.google.com/?q=Honaganahalli,Mandya",
-    link: "/property/Agriculture-Farm-Land-Mandya",
+    link: "/property/Ag02-farmland-doddaballapura",
     description:
       "Farmland available for sale near Doddaballapura, which is about 8km from the town. The land is completely fenced and has a borewell with a guest house.",
   },
   {
-    title: "Agriculture Farmland Chikkaballapura",
+    title: "Ag03 - Agri farmland Chikkaballapura",
     sites: null,
     location: "Chikkaballapura",
     region: "Doddaballapura",
@@ -77,7 +77,7 @@ const agriproperties = [
     dcConversion: null,
     revenueSite: null,
     googleMapLink: "https://maps.app.goo.gl/hCDsMxwBVE4qxwsL9",
-    link: "/property/Agriculture-Farm-Land-Chikkaballapura",
+    link: "/property/Ag03-farmland-chikkaballapura",
     description:
       "Isha foundation opposite land very nice farm house land 9 acre 11  guntas one ackar kharab land 5 bore well coconut mango support take silver full compound 2 house  Water tank and generator 24 hours electrical, one house three bedroom second house 2 bedroom cow shede excetra.",
   },
