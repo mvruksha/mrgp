@@ -14,8 +14,8 @@ const Carousel = dynamic(
 );
 
 const slides = [
-  "/assets/banner/banner1.jpg",
-  "/assets/banner/banner2.jpg",
+  "/assets/banner/Cbp-f1.jpeg",
+  "/assets/banner/mandya-farm1.jpeg",
   "/assets/banner/banner3.jpg",
 ];
 
