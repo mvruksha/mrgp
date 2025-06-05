@@ -80,7 +80,8 @@ const RealEstateSlider = ({
                   >
                     {property.images.map((mediaSrc, mediaIndex) => (
                       <SwiperSlide key={mediaIndex}>
-                        {mediaSrc.endsWith(".mp4") ? (
+                        {typeof mediaSrc === "string" &&
+                        mediaSrc.toLowerCase().endsWith(".mp4") ? (
                           <video
                             src={mediaSrc}
                             controls
@@ -188,3 +189,9 @@ const RealEstateSlider = ({
           onClose={handleCloseModal}
           property={selectedProperty}
         />
+      </div>
+    </div>
+  );
+};
+
+export default RealEstateSlider;
