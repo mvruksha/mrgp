@@ -87,8 +87,10 @@ const RealEstateSlider = ({
                             muted
                             loop
                             playsInline
-                            preload="metadata"
+                            preload="auto"
                             className="w-full h-60 object-cover"
+                            onClick={(e) => e.stopPropagation()}
+                            poster="/assets/home/properties/video-thumbnail.jpg" // Optional thumbnail
                           />
                         ) : (
                           <Image
