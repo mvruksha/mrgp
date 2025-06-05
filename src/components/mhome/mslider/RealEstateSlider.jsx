@@ -68,7 +68,6 @@ const RealEstateSlider = ({
             <SwiperSlide key={index} onClick={() => router.push(property.link)}>
               <div className="cursor-pointer bg-white rounded-xs overflow-hidden shadow-md hover:shadow-xl hover:scale-[1.02] transition-transform duration-300 flex flex-col">
                 <div className="relative">
-                  {/* Media Slider */}
                   <Swiper
                     spaceBetween={10}
                     slidesPerView={1}
@@ -81,8 +80,7 @@ const RealEstateSlider = ({
                   >
                     {property.images.map((mediaSrc, mediaIndex) => (
                       <SwiperSlide key={mediaIndex}>
-                        {typeof mediaSrc === "string" &&
-                        mediaSrc.toLowerCase().endsWith(".mp4") ? (
+                        {mediaSrc.endsWith(".mp4") ? (
                           <video
                             src={mediaSrc}
                             controls
@@ -102,7 +100,6 @@ const RealEstateSlider = ({
                     ))}
                   </Swiper>
 
-                  {/* Custom Nav Buttons */}
                   <div className="absolute top-1/2 left-0 right-0 flex justify-between items-center px-2 transform -translate-y-1/2 z-10">
                     <button
                       onClick={(e) => e.stopPropagation()}
@@ -191,9 +188,3 @@ const RealEstateSlider = ({
           onClose={handleCloseModal}
           property={selectedProperty}
         />
-      </div>
-    </div>
-  );
-};
-
-export default RealEstateSlider;
