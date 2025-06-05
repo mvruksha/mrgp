@@ -58,7 +58,7 @@ const agriproperties = [
     title: "Ag03 - Agri farmland Chikkaballapura",
     sites: null,
     location: "Chikkaballapura",
-    region: "Doddaballapura",
+    region: "Chikkaballapura",
     images: [
       "/assets/farmland/Cbp-f1.jpeg",
       "/assets/farmland/Cbp-f2.jpeg",
