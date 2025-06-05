@@ -34,7 +34,6 @@ export default function PropertyPage({ params }) {
       <div className="pt-16">
         {/* ✅ Back Button */}
         {/* ✅ Adjust positioning */}
-
         <div className="mb-2">
           <BackButton />
         </div>
@@ -42,11 +41,11 @@ export default function PropertyPage({ params }) {
         <p className="text-gray-600 mb-8">{property.location}</p>
       </div>
 
-      {/* Images */}
-      {/* <PropertyImages images={property.images} title={property.title} /> */}
-
-      {/* Description */}
-      <PropertyDescription description={property.description} />
+      {/* Description with images (video/image slider) */}
+      <PropertyDescription
+        description={property.description}
+        images={property.images} // ✅ Added images prop
+      />
 
       {/* Details */}
       <PropertyDetailsTable images={property.images} property={property} />
