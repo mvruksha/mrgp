@@ -51,25 +51,24 @@ const RealEstateSlider = ({
             {viewAllLabel} <IoArrowRedoSharp className="text-xl" />
           </Link>
         </div>
-        
+
         <Swiper
           spaceBetween={30}
           navigation={true}
           modules={[Navigation]}
           breakpoints={{
-            0: { slidesPerView: 1 },       // Mobile
-            640: { slidesPerView: 2 },     // Small tablets
-            768: { slidesPerView: 3 },     // Tablets
-            1024: { slidesPerView: 4 },    // Desktops and up
+            0: { slidesPerView: 1 },
+            640: { slidesPerView: 2 },
+            768: { slidesPerView: 3 },
+            1024: { slidesPerView: 4 },
           }}
           className="mySwiper"
-        >  
-
+        >
           {properties.map((property, index) => (
             <SwiperSlide key={index} onClick={() => router.push(property.link)}>
               <div className="cursor-pointer bg-white rounded-xs overflow-hidden shadow-md hover:shadow-xl hover:scale-[1.02] transition-transform duration-300 flex flex-col">
                 <div className="relative">
-                  {/* Image Slider */}
+                  {/* Media Slider */}
                   <Swiper
                     spaceBetween={10}
                     slidesPerView={1}
@@ -80,13 +79,14 @@ const RealEstateSlider = ({
                     modules={[Navigation]}
                     className="propertyImageSlider"
                   >
-                    {property.images.map((imgSrc, imgIndex) => (
-                      {property.images.map((mediaSrc, mediaIndex) => (
+                    {property.images.map((mediaSrc, mediaIndex) => (
                       <SwiperSlide key={mediaIndex}>
-                        {mediaSrc.endsWith(".mp4") ? (
+                        {typeof mediaSrc === "string" &&
+                        mediaSrc.toLowerCase().endsWith(".mp4") ? (
                           <video
                             src={mediaSrc}
                             controls
+                            preload="metadata"
                             className="w-full h-60 object-cover"
                           />
                         ) : (
@@ -120,7 +120,6 @@ const RealEstateSlider = ({
                 </div>
 
                 <div className="p-5 flex flex-col flex-grow">
-                  {/* Only wrap title in Link */}
                   <Link href={property.link} className="block">
                     <h3 className="text-base font-semibold text-gray-800 mb-2 hover:text-orange-500">
                       {property.title}
