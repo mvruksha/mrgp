@@ -7,7 +7,7 @@ import { Poppins } from "next/font/google";
 import Footer from "@/components/footer/Footer";
 import WhatsApp from "@/components/watsapp/Watsapp";
 import Preloader from "@/components/loader/Preloader";
-import Script from "next/script"; // ✅ Import Script
+import Script from "next/script"; // ✅ Still used for GA
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -41,13 +41,12 @@ export default function RootLayout({ children }) {
           `}
         </Script>
 
-        {/* ✅ Google AdSense */}
-        <Script
+        {/* ✅ Google AdSense: now plain HTML for crawler detection */}
+        <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6743441506724698"
           crossOrigin="anonymous"
-          strategy="afterInteractive"
-        />
+        ></script>
       </head>
       <body className={poppins.className}>
         {loading && <Preloader />}
