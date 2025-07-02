@@ -100,6 +100,32 @@ const properties = [
     description:
       "Site for sale in TB Cross Doddaballapura. Direct contact with the site owner. No hidden charges.",
   },
+  {
+    title: "Site for sale in DBP",
+    sites: null,
+    location: "Near Railway Station, Doddaballapura",
+    region: "Doddaballapura",
+    images: [
+      "/assets/home/properties/rlw2.jpeg",
+      "/assets/home/properties/rlw1.jpeg",
+      "/assets/home/properties/rlw3.jpeg",
+      "/assets/home/properties/rlw4.jpeg",
+    ],
+    price: 0,
+    bedrooms: null,
+    bathrooms: null,
+    dimensions: "1200 sqft",
+    availability: "Available",
+    ownerName: "Contact Surya Vruksha Property Junction",
+    propertyType: "Residential Plot",
+    phoneNumber: "+91 9986677996",
+    dcConversion: "Yes",
+    revenueSite: "No",
+    googleMapLink: "https://maps.app.goo.gl/Wa46q7dGmiHSLcU88",
+    link: "/property/Site-sale-in-Rlway",
+    description:
+      "Site for sale near Railway station Doddaballapura. Clear titles and a direct owner meeting.",
+  },  
 ];
 
 export default properties;
